@@ -3,7 +3,7 @@ info:
   identifier: "lutheme"
   description: "My dream theme for Pterodactyl!"
   flags: ""
-  version: "0.1-beta"
+  version: "0.1"
   target: "beta-2025-11"
   author: "lucas11"
   icon: "icon.png"
