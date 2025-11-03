@@ -182,7 +182,11 @@
   color: var(--white)!important;
 }
 .style-module_1DtraXMW {
-  background-color: var(--primary-700)!important;
+  border-radius: 0%!important;
+  box-shadow: none!important;
+  border: 2px solid var(--primary-500)!important;
+  background-color: var(--primary-800)!important;
+  color: var(--white)!important;
 }
 .style-module_1WqkLT9X {
   border-radius: 0%!important;
@@ -214,9 +218,6 @@
 #NavigationBar {
   background-color: var(--primary-800)!important;
 }
-#SubNavigation {
-  background-color: var(--primary-700)!important;
-}
 
 .DashboardContainer___StyledServerRow-sc-1topkxf-2 {
   background-color: var(--primary-600)!important;
@@ -240,7 +241,7 @@
   
 }
 .style-module_1n_DiqmT {
-  border: 5px solid var(--primary-600)!important;
+  border: 5px solid var(--primary-500)!important;
   border-top-left-radius: 5px!important;
   border-top-right-radius: 5px!important;
 }
@@ -249,4 +250,35 @@ input::placeholder {
   font-weight: bold;
   opacity: 0.5;
   color: white!important;
+}
+.PageContentBlock___StyledA-sc-kbxq2g-4:link {
+  color: var(--primary-600)!important;
+}
+.PageContentBlock___StyledA-sc-kbxq2g-4:visited {
+  color: var(--primary-400)!important;
+}
+.PageContentBlock___StyledA-sc-kbxq2g-4:hover {
+  color: var(--primary-400)!important;
+}
+.PageContentBlock___StyledP-sc-kbxq2g-4:active{
+  color: var(--primary-400)!important;
+}
+.text-neutral-500:link {
+  color: var(--primary-600)!important;
+}
+.text-neutral-500:visited {
+  color: var(--primary-400)!important;
+}
+.text-neutral-500:hover {
+  color: var(--primary-400)!important;
+}
+.text-neutral-500:active {
+  color: var(--primary-400)!important;
+}
+
+.mx-auto {
+  max-width: 2000px!important;
+}
+#SubNavigation {
+  background-color: var(--primary-700)!important;
 }
