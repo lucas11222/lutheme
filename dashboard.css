@@ -174,7 +174,7 @@
 .text-yellow-800 { color: var(--yellow-800); }
 .text-primary-300 { color: var(--primary-300); }
 
-.style-module_2XbmHEcn, .style-module_2Vp6MaXq, .ContentBox___StyledDiv-sc-mjlt6f-2, .Modal___StyledDiv2-sc-9vzni8-3, .Input-sc-19rce1w-0, .Input__Textarea-sc-19rce1w-1, .TitledGreyBox___StyledDiv-sc-gvsoy-0, .LoginFormContainer___StyledDiv-sc-cyh04c-3, .GreyRowBox-sc-1xo9c6v-0, .bg-gray-700, .EditScheduleModal___StyledDiv2-sc-wh9db9-4, .EditScheduleModal___StyledDiv4-sc-wh9db9-6, .EditScheduleModal___StyledDiv5-sc-wh9db9-7 {
+.style-module_2XbmHEcn, .style-module_2Vp6MaXq, .ContentBox___StyledDiv-sc-mjlt6f-2, .Modal___StyledDiv2-sc-9vzni8-3, .Input-sc-19rce1w-0, .Input__Textarea-sc-19rce1w-1, .TitledGreyBox___StyledDiv-sc-gvsoy-0, .LoginFormContainer___StyledDiv-sc-cyh04c-3, .GreyRowBox-sc-1xo9c6v-0, .bg-gray-700, .EditScheduleModal___StyledDiv2-sc-wh9db9-4, .EditScheduleModal___StyledDiv4-sc-wh9db9-6, .EditScheduleModal___StyledDiv5-sc-wh9db9-7, .bNXcqn, .bWXUsX, .style-module_1RnhIT0w, .TaskDetailsModal___StyledDiv5-sc-1b5dnyw-7, .Select-sc-17exaqp-0, .box  {
   border-radius: 0%!important;
   box-shadow: none!important;
   border: 2px solid var(--primary-500)!important;
@@ -194,7 +194,7 @@
   border: 2px solid var(--primary-500)!important;
   background-color: var(--primary-800)!important;
   color: var(--white)!important;
-  margin: 15px!important;
+  margin: 10px!important;
 }
 .PermissionRow__Container-sc-1h899cn-0:hover {
   border-radius: 0%!important;
@@ -211,8 +211,9 @@
 .TitledGreyBox___StyledDiv2-sc-gvsoy-1 {
   background-color: var(--primary-600)!important;
 }
-.style-module_4LBM1DKx {
+.style-module_4LBM1DKx, .Button__ButtonStyle-sc-1qu1gou-0 {
   border-radius: 0%!important;
+  font-family: "JetBrains Mono", monospace!important;
 }
 
 #NavigationBar {
@@ -281,4 +282,7 @@ input::placeholder {
 }
 #SubNavigation {
   background-color: var(--primary-700)!important;
+}
+.style-module_2vOYXZWm { 
+  background-color: var(--primary-600)!important;
 }
