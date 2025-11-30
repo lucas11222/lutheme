@@ -1,4 +1,5 @@
 # Lutheme: My dream theme for Blueprint!
+## This extension has some issues with the graphs bcs of the new Blueprint update. I cannot fix it as its not my poblem with the code :(
 ## Why did i make this?
 Basicly the issue i had in the normal theme for pterodactyl is that is hard to customize without modding but i wanted a custom theme for my home server. 
 Then i got this idea a few months later, but i was scared to code it as i never used php. Untill now i had the motivation to finish this.
