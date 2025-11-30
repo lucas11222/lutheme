@@ -244,8 +244,7 @@
 }
 .style-module_1n_DiqmT {
   border: 5px solid var(--primary-500)!important;
-  border-top-left-radius: 5px!important;
-  border-top-right-radius: 5px!important;
+  border-bottom: none!important;
 }
 
 input::placeholder {
@@ -298,4 +297,20 @@ input::placeholder {
 }
 .jyeSuy>.grid>.self-end>.flex>.style-module_Yp7-2Fw-, .ReinstallServerBox___StyledDiv-sc-1prmksw-3>.style-module_4LBM1DKx.style-module_2RJbSnp6 {
   background-color: var(--red-500)!important;
+}
+.fDvZKJ {
+  color: white!important;
+}
+.style-module_RcP2_Fvj .style-module_3TDo--Tn {
+    border-bottom-right-radius: 0px!important;
+    border-bottom-left-radius: 0px!important;
+    border-bottom-width: 0px!important;
+}
+.style-module_RcP2_Fvj > .style-module_1n_DiqmT {
+    border-top-right-radius: 0px!important;
+    border-top-left-radius: 0px!important;
+}
+.style-module_RcP2_Fvj .style-module_3TDo--Tn {
+  background-color: var(--primary-700)!important;
+  border: 5px solid var(--primary-500)!important;
 }
