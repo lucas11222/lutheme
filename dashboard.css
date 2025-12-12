@@ -206,7 +206,7 @@
   color: var(--white)!important;
   background-color: var(--primary-800)!important;
   border: 3px solid var(--primary-600)!important;
-  border-radius: 5px!important;
+  border-radius: 0px!important;
 }
 .TitledGreyBox___StyledDiv2-sc-gvsoy-1 {
   background-color: var(--primary-600)!important;
@@ -286,7 +286,7 @@ input::placeholder {
 .style-module_2vOYXZWm { 
   background-color: var(--primary-600)!important;
 }
-.iWCdMr, .QNQDy {
+.iWCdMr, .QNQDy, .FileObjectRow___StyledDiv-sc-wrdnyp-0, .style-module_1WqkLT9X > .style-module_35MPv1CD, .iyXSLu > .navigation-link, .iyXSLu > button {
   color: white!important;
 }
 .icon {
@@ -313,4 +313,15 @@ input::placeholder {
 .style-module_RcP2_Fvj .style-module_3TDo--Tn {
   background-color: var(--primary-700)!important;
   border: 5px solid var(--primary-500)!important;
+}
+.dUSgrs {
+  background-color: rgb(var(--primary-700))!important;
+  border-radius: 0px!important;
+  box-shadow: none!important;
+}
+.cDmYBr > label, .cDmYBr > label::before {
+  border-radius: 0px!important;
+}
+.bzLcIU {
+  border-color: var(--primary-500)!important;
 }
